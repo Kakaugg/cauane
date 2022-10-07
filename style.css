@@ -16,7 +16,8 @@ background: ;
 }
 
 Estilizar os parágrafos
-p{
+p {
+text-align: center;
 color:blue;
 font-family: ;
 font-size: ;
